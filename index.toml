@@ -866,7 +866,7 @@ hash = "0af3b2ccab11d2a1ce92b0572f72d3f42330c663f311cb3199106d4bb49793c1"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
+hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "098dce9973ba88740458098f574f77cd8611b8aa9584916746ca135ef533309a"
+hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
 metafile = true
 
 [[files]]
@@ -1241,12 +1241,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d64f9f2bec28a62c595d5be6c34bc11bd77970ddbcfc81cdafe6a4b4eabbc731"
+hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
 metafile = true
 
 [[files]]
