@@ -1086,6 +1086,11 @@ hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "0a06bba293fdf7e3009ab3457e831e775b1689ad91a146b35ca6109f2731bc79"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -1271,6 +1276,11 @@ hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "48d598e695de97bdfce0eb678c461bf64df8689f92f5301921b87146aa0761bb"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "ef1706c2908bd1b66bf1c64eebd77f84162d248060c94760f0c25ed194726c5f"
 metafile = true
@@ -1298,6 +1308,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "c12bf9b587af856586fdc45d21917b1a2e57f8aca3900f533e4ebf316f1205ab"
 metafile = true
 
 [[files]]
@@ -1338,6 +1353,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ecb30569130388a24a8feaced9ed84a55954a57b87aa5cfe077a6763942097e4"
 metafile = true
 
 [[files]]
@@ -1481,6 +1501,11 @@ hash = "e04f1f1f97017652eed9c464b33e1f3abf64c010ed9d7b98851ea846f23d8e83"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ece21e023c946adde3208a24c3eaa8620418071d3771394b671a9de1c7d77cfb"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "e8dcf2468e5b23c5ed71ce8c6e5d48ae70b9cb3281eab6c35401b0beecfc8a1c"
 metafile = true
@@ -1513,6 +1538,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
@@ -1578,6 +1608,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "a98b07ee08d2563048783d80c1ef7d64831d12577f7a91973090a9b8d4e7c9da"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "875f489328325835edfef7c6cc404209d44d479969602b6693242b72a0cc92d5"
 metafile = true
 
 [[files]]
