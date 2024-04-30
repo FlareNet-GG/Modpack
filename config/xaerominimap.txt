@@ -109,8 +109,8 @@ displayTrackedPlayers:true
 dimensionScaledMaxWaypointDistance:true
 displayClaims:true
 displayCurrentClaim:true
-claimsFillOpacity:46
-claimsBorderOpacity:80
+claimsFillOpacity:40
+claimsBorderOpacity:60
 infoDisplayOrder:coords:overworld_coords:chunk_coords:angles:dimension:biome:weather:light_level:time:real_time:highlights:light_overlay_indicator:manual_cave_mode_indicator:custom_sub_world
 infoDisplay:coords:true:15:-1
 infoDisplay:overworld_coords:false:15:-1
