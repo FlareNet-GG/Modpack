@@ -1276,11 +1276,6 @@ hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "48d598e695de97bdfce0eb678c461bf64df8689f92f5301921b87146aa0761bb"
-metafile = true
-
-[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "ef1706c2908bd1b66bf1c64eebd77f84162d248060c94760f0c25ed194726c5f"
 metafile = true
@@ -1538,11 +1533,6 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
