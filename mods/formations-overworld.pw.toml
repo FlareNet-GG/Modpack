@@ -3,11 +3,11 @@ filename = "formationsoverworld-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KX1XC0Oo/versions/ZijxAoSG/formationsoverworld-1.0.3.jar"
 hash-format = "sha1"
 hash = "fd108573b9718bcfc8422570fe9b9e1fb32baffd"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "KX1XC0Oo"
-version = "ZijxAoSG"
+[update.curseforge]
+file-id = 5296564
+project-id = 915324

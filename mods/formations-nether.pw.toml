@@ -3,11 +3,11 @@ filename = "formationsnether-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cGvQGRls/versions/OuVh7nTj/formationsnether-1.0.4.jar"
 hash-format = "sha1"
 hash = "fcf83f6d50541333aaaa837b4d59ea2d13871a88"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "cGvQGRls"
-version = "OuVh7nTj"
+[update.curseforge]
+file-id = 5296570
+project-id = 918840

@@ -3,11 +3,11 @@ filename = "ServerRedirect-ForgeMC20-1.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YqkxTQEh/versions/pwyLLNBz/ServerRedirect-ForgeMC20-1.4.5.jar"
 hash-format = "sha1"
 hash = "968f96b4c1c841901167011fc37fc63aee1706f4"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "YqkxTQEh"
-version = "pwyLLNBz"
+[update.curseforge]
+file-id = 4683939
+project-id = 295232

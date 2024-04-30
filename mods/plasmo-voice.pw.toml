@@ -3,11 +3,11 @@ filename = "plasmovoice-forge-1.20.1-2.0.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/Hol9lcOf/plasmovoice-forge-1.20.1-2.0.9.jar"
 hash-format = "sha1"
 hash = "7459a25272c290c97a0ba783f77419f9ce6b1b44"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "1bZhdhsH"
-version = "Hol9lcOf"
+[update.curseforge]
+file-id = 5303017
+project-id = 467028
