@@ -21,7 +21,7 @@ type = "KEYSYM"
 [addons.pv-addon-soundphysics]
 "gui.plasmovoice.soundphysics.mic_reverb_volume" = 1.0
 "gui.plasmovoice.soundphysics.enabled" = true
-"gui.plasmovoice.soundphysics.mic_reverb" = true
+"gui.plasmovoice.soundphysics.mic_reverb" = false
 
 [voice]
 disabled = false
@@ -40,23 +40,7 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
-[voice.volumes.source_1beec1e0-c975-4511-8195-76ec15413791]
-volume = 1.0
-[voice.volumes.source_53130896-a7c9-4f3c-91da-17b119a2e656]
-volume = 1.0
 [voice.volumes.proximity]
-volume = 1.0
-[voice.volumes.source_da499295-0f74-49d5-8237-6e8b72298f08]
-volume = 1.0
-[voice.volumes.source_bb7d1c6c-e9f2-4bf1-a11f-00cd7f119335]
-volume = 1.0
-[voice.volumes.source_c551c234-733f-43b9-85b0-07e0b8873982]
-volume = 1.0
-[voice.volumes.source_659365f0-6b3c-43e4-afd9-a614274cec32]
-volume = 2.0
-[voice.volumes.source_cdcbc25b-ab07-4dbe-b744-3e74d6518a2c]
-volume = 1.0
-[voice.volumes.source_40319196-a548-4708-8202-29db03cfa6f9]
 volume = 1.0
 
 [advanced]
