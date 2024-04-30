@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "bceb4b87fef24990c8f20cfc218307d6cc584d87ab48673838144b954a417c7a"
+hash = "e3aa54f95b6cf7f69110eb0c8237a3790f02cfb68466d8db9402f248463a91c4"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-automation.pw.toml"
-hash = "dae263767e4cdde218ccc7f2c72b527059de3bc61d202a5fad68a1c8b5d59a57"
+hash = "5b0bbc0a822a704b1d22907660a7ab022e6f36c08c4866cd65fc50c747262b5b"
 metafile = true
 
 [[files]]
@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
