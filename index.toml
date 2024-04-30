@@ -33,8 +33,20 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/ad_astra-client.jsonc"
+hash = "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3"
+
+[[files]]
 file = "config/ad_astra.jsonc"
 hash = "27be9144aa75a528e54466a3ca99540eea2dc32ac99deacc3974a8ee938e87bc"
+
+[[files]]
+file = "config/advancednetherite-client.toml"
+hash = "228f901e5c0b87acb48dd1f7bfe7c53cf5cc38fa06a59155efb70c59b035dbec"
+
+[[files]]
+file = "config/advancednetherite-common.toml"
+hash = "74262502043c0b5e1e57d549981efbe4123be357a130f385979a9b6adb70138b"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -409,6 +421,10 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
+file = "config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
 file = "config/betterdeserttemples-forge-1_20.toml"
 hash = "ee648242e301a55004cf2796dbf7d31ba1e46765ad07dd45c12053bbb4f4d387"
 
@@ -517,6 +533,22 @@ file = "config/biomesoplenty/generation.toml"
 hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
 
 [[files]]
+file = "config/carryon-client.toml"
+hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
+
+[[files]]
+file = "config/chefsdelight-common.toml"
+hash = "48363ce4c5bff4cbae4c5d3d7385ff8088fb222b5ac8ee6b592bf6505765ac24"
+
+[[files]]
 file = "config/chiselsandbits-client-1.toml.bak"
 hash = "231dd6eb5b1410db079be6ccf930b4086d20ebf0ae1328d46ff36b4ac388df66"
 
@@ -541,6 +573,10 @@ file = "config/comforts-server.toml"
 hash = "e5ccb95513c64cf71bd84023adeff3e5073d1ecd4db31c91025d24ce5f3605f3"
 
 [[files]]
+file = "config/crabbersdelight-common.toml"
+hash = "6c1ab8b72c12bf8d9fd006c8c9bcb27fa2d655b0431463b717f365abdd723079"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -561,12 +597,52 @@ file = "config/createcasing-common.toml"
 hash = "d45373623ec4a51a2ac9e8e0607e1536c611a2b4f39a36c6935ee291a01b84fd"
 
 [[files]]
+file = "config/cuisinedelight-common.toml"
+hash = "82eba378e3a3e65f6f4ab038a04832720014e68fde8f31e9ea07167e9bc9158d"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
 
 [[files]]
 file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
+
+[[files]]
+file = "config/delightful-common.toml"
+hash = "f250853e350ca78e1519f495c33ebee561d89512b1bef3d12576f8eb19bbba1c"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+hash = "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7"
+
+[[files]]
+file = "config/easymagic-client.toml"
+hash = "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "0103610444b018e2af9c622a4750df5dcc8fc020ff5b80b497345c689325023a"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "a78b708622316646134ae1e7b80e52d6ed8ca43ffd9a5239fd22b619a0b4c283"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "b1c29873ba75ff3a6d1c6bc2e0800a37c07771b901f7e44a7a2dd1622d78478d"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "3450a93d871332a49fb0484557e49467e999028898eef5a17854cdded4b29b1b"
 
 [[files]]
 file = "config/fancymenu/assets/main_menu.png"
@@ -582,7 +658,7 @@ hash = "f1af318a6df16b8aee32dbfbf20d17977e239624fc09d0eb0ad85acb57ab21e9"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "2524c808977ced3d17a7bcdd22571fbc76ce7c627fcbd2a2a499ece937dbb3fb"
+hash = "a3601863376fd2980970130f9bea1bcbd0c639294bab737f35914c11265ab2f8"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen.txt"
@@ -598,7 +674,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "b640e622ba4bd3df4367bf016a32f10e147cd320a0884d0d3c72b2c078ad2e54"
+hash = "547c75be6e7fbe1cdf1a0b2949a2b0ceb6b42d73fbf1135f7c811c61da43b67c"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -611,6 +687,18 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
+
+[[files]]
+file = "config/farsight.json"
+hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -685,6 +773,38 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "config/l2_configs/l2library-client.toml"
+hash = "bee1c76cbc66e917babe40a1fc94132bc9c227aa69e17d27417cd77dab532e74"
+
+[[files]]
+file = "config/l2_configs/l2library-common.toml"
+hash = "1200e86c053c1bc905bfe01a6b69bc09c0ad21feae8ee25c23c48d345672a4f8"
+
+[[files]]
+file = "config/mindfuldarkness-client.toml"
+hash = "77c40658422ba354bed227acc661a59d61aa48ea610e101bf2da79ee124d9781"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "30e8f98a4dae479b465198fd67c14f2631f0f2691c188852a09e780e1ae99156"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "bec5b98fd9f2ca1bd3b17a8e5e65916759f480e39a79d80a5af4ed30373261ad"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
@@ -731,6 +851,10 @@ hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
 [[files]]
 file = "config/plasmovoice/client.toml"
 hash = "93b03a788fdf437fb28b605dd542afe8e90fbb99dd54d4f6eb139da0732a724f"
+
+[[files]]
+file = "config/raided-common.toml"
+hash = "66b2e906e56932093d0292e9c83c88ebdc0db75f6b33bc812f089b82cc23bba5"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -785,6 +909,10 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "3b316721a97b8372883a130d8f3365abecf2d5db1ed745e54885b3e7e7b39f7d"
 
 [[files]]
+file = "config/skinlayers.json"
+hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
+
+[[files]]
 file = "config/sliceanddice-common.toml"
 hash = "6d15397086cbf7e666f295ba021b6c62158e4b6c0bc1f19ff637864894a64e5a"
 
@@ -825,6 +953,14 @@ file = "config/storagedrawers-common.toml"
 hash = "fe186891b497287dd2e784a3e0a735d6c0755b01c3b317912ad9417b34fffd95"
 
 [[files]]
+file = "config/structure_gel-client.toml"
+hash = "8058ecb1b7e59f183db54b31fe49e2040bc222294a46ba5c7c82a172a7277354"
+
+[[files]]
+file = "config/structure_gel-common.toml"
+hash = "888d2904bd7dd577f72d901603912a440540eba21212b004cf6abe41f1cde23b"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
 
@@ -835,6 +971,26 @@ hash = "8ab414b34601e3023481f85777bc831a1b3cc78478103b71645b503792c7e6e7"
 [[files]]
 file = "config/valhelsia_structures-common.toml"
 hash = "b867176a5df54ccc38411903baf8a5ad4129f66ffad4594fc292601cc3cb9eeb"
+
+[[files]]
+file = "config/visuality/config.toml"
+hash = "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_ambient.json"
+hash = "734a10c828571b65d71d2f27ff2d3350603d097e96c5d0dd5f49319fe21b803b"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_step.json"
+hash = "54d4448f6c45ba1ad311f6c35b55b9b800ad4ae664f075707e05cd798b6eab7b"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_armor.json"
+hash = "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_hit.json"
+hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -1231,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "b3319815b58da5ea01df59051daed685fe6da3f839a4a2c7b868ab59cadc1473"
+hash = "af9d3807b2ed2f127c9be685d07100a2860540fe8950afeb2676b9a23ce6e158"
 metafile = true
 
 [[files]]
