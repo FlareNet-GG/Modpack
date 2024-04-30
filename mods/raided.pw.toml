@@ -3,11 +3,11 @@ filename = "Raided-1.20.1-0.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9vaHfaHw/versions/otISy9tM/Raided-1.20.1-0.1.4.jar"
 hash-format = "sha1"
-hash = "b4746b284f2801bde54d6f0c712508449af3278d"
+hash = "e8c493ec6b9e16a72cedac76ca0c42f7ff90e977"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "9vaHfaHw"
-version = "otISy9tM"
+[update.curseforge]
+file-id = 5128249
+project-id = 580942

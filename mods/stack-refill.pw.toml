@@ -3,11 +3,11 @@ filename = "stackrefill-1.20.1-4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/PsJVmVzf/stackrefill-1.20.1-4.2.jar"
 hash-format = "sha1"
 hash = "b4853ad60c46a891f6d7859bf2dc06cdf9fbf801"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "mQWkB9ON"
-version = "PsJVmVzf"
+[update.curseforge]
+file-id = 4963825
+project-id = 411813

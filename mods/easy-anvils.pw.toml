@@ -1,13 +1,13 @@
-name = "Easy Anvils"
+name = "Easy Anvils [Forge & Fabric]"
 filename = "EasyAnvils-v8.0.2-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/4pRdDqEb/EasyAnvils-v8.0.2-1.20.1-Forge.jar"
 hash-format = "sha1"
 hash = "d44a8b549b27713a92d59148729bf374ff3e25f0"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OZBR5JT5"
-version = "4pRdDqEb"
+[update.curseforge]
+file-id = 5156621
+project-id = 682567

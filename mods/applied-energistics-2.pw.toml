@@ -3,11 +3,11 @@ filename = "appliedenergistics2-forge-15.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/isHbiIeZ/appliedenergistics2-forge-15.1.1.jar"
 hash-format = "sha1"
 hash = "4c38d42e2d1320dc683917084e72820fcd235b97"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "XxWD5pD3"
-version = "isHbiIeZ"
+[update.curseforge]
+file-id = 5253401
+project-id = 223794

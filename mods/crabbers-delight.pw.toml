@@ -3,11 +3,11 @@ filename = "CrabbersDelight-1.20.1-1.1.4a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gBGdVBJy/versions/dPjdGhGW/CrabbersDelight-1.20.1-1.1.4a.jar"
 hash-format = "sha1"
 hash = "b4a80de0913f7ffea030a6175be921c6d7ceeebd"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "gBGdVBJy"
-version = "dPjdGhGW"
+[update.curseforge]
+file-id = 5244920
+project-id = 892827
