@@ -1277,12 +1277,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2f3f08f68578bcf3c98f141d5d33c6ddf9bc5fb1a37360cf44e360e0d78fd33c"
+hash = "7e8c2df3adb1eea564647ddd26c5d63838b25828058c43e2286e0289c57977e3"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "3c49c9ca3e35f09cc4dcde7db90d7bdb6491423f0dcdeaf693c303c03c946668"
+hash = "61b2c4cf34e83f3c88baa64afd5e16a76af1c00a858ee72bdd0b76775e84082f"
 metafile = true
 
 [[files]]
