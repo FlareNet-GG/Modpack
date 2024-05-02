@@ -1032,6 +1032,11 @@ hash = "2c31b3651fd6df13a65721fe596a0e3dd63f15148301a953d0e8789dce882d64"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "851e8393fb9d54f97f5903f665a216703eb6b3a997b4be59827ae833000fd177"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "65ce57a6ef462c45d74bbe9d6b8b7cfeb7c568e5b67ed9f54771284487e8009b"
 metafile = true
