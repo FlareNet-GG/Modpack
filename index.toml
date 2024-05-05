@@ -1097,6 +1097,11 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e20c65099b272ff1848676dcc4d9e6025722ab35c60d9e1dfd1d36f44457cdea"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8820426c4fe307fde61c56679fc91736bbda50e331bfd64f0f718e3b172afacd"
 metafile = true
