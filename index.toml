@@ -1037,6 +1037,11 @@ hash = "851e8393fb9d54f97f5903f665a216703eb6b3a997b4be59827ae833000fd177"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "65ce57a6ef462c45d74bbe9d6b8b7cfeb7c568e5b67ed9f54771284487e8009b"
 metafile = true
@@ -1169,6 +1174,11 @@ metafile = true
 [[files]]
 file = "mods/create-additional-recipes.pw.toml"
 hash = "ee71267e855aad0b2cc34816318a2757488c75adc7a79ba57556834cd051e46d"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "898394ebeca1f58b9c37e95b8444089766ffb5e9d395c8755826666a7f0866c5"
 metafile = true
 
 [[files]]
@@ -1594,6 +1604,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d64f9f2bec28a62c595d5be6c34bc11bd77970ddbcfc81cdafe6a4b4eabbc731"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
 metafile = true
 
 [[files]]
