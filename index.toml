@@ -69,6 +69,14 @@ file = "config/mindfuldarkness-client.toml"
 hash = "77c40658422ba354bed227acc661a59d61aa48ea610e101bf2da79ee124d9781"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "3b316721a97b8372883a130d8f3365abecf2d5db1ed745e54885b3e7e7b39f7d"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true

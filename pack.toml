@@ -1,12 +1,12 @@
 name = "FlareNet"
 author = "PenguinTijn"
-version = "0.0.5"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e05924c0a0833775c0702cc02394a78fa6b7b5430c6eeac1477869b5e88129d0"
+hash = "c122ccc706618c31869fa34c664310e9101caa1cd6d70a364927fd20d331bc17"
 
 [versions]
 forge = "47.2.17"
